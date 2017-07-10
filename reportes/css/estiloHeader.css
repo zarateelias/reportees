@@ -1,0 +1,35 @@
+.headerPage{
+    width: 100%;
+    min-width: 70%;
+  
+    min-height: 80px;
+    max-height: 100px;
+    margin: 0 auto;
+    background: #efefef;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.2), 0px 0px 0px 0 rgba(0, 0, 0, 0.24);
+
+}
+
+
+.imgHeaderWagner{
+    float: left;
+    height: 90px;
+    
+    background-image: url(../images/img_login.png);
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: 40%;
+}
+
+.imgHeaderCliente{
+    float: right;
+    height: 90px;
+   
+    background-image: url(../images/walmart.png);
+    background-size: auto 80%;
+    background-repeat: no-repeat;
+    background-position: 30%;
+}
+
+
+
